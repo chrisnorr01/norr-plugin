@@ -1,0 +1,18 @@
+spec_version: "0.1.0"
+name: norr-plugin
+version: 1.0.0
+description: Persoenliches Plugin fuer Norr Content, Recherche und Planung — Instagram, LinkedIn, Pinterest, YouTube, Buch, Natur-Wissenschaft
+author: chrisnorr01
+license: MIT
+
+skills:
+  - norr-post
+  - norr-linkedin
+  - norr-pinterest
+  - norr-shorts
+  - norr-buch
+  - norr-plan
+  - norr-recherche
+  - gear-check
+  - natur-bio
+  - natur-chemie

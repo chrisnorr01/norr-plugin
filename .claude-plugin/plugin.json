@@ -1,0 +1,23 @@
+{
+  "name": "norr-plugin",
+  "version": "1.0.0",
+  "description": "Persoenliches Plugin fuer Norr Content, Recherche und Planung — Instagram, LinkedIn, Pinterest, YouTube Shorts, Buch, Natur-Wissenschaft",
+  "author": {
+    "name": "Chris Norr",
+    "url": "https://github.com/chrisnorr01"
+  },
+  "repository": "https://github.com/chrisnorr01/norr-plugin",
+  "license": "MIT",
+  "keywords": [
+    "norr",
+    "outdoor",
+    "content",
+    "instagram",
+    "recherche",
+    "natur"
+  ],
+  "mcpServers": {},
+  "skills": [
+    "./skills/"
+  ]
+}
