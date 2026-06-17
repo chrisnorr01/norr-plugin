@@ -1,0 +1,26 @@
+name: norr-plugin
+version: 1.0.0
+description: Persönliches Plugin für Norr Content, Recherche und Planung
+author: chrisnorr01
+namespace: norr
+
+skills:
+  - skills/norr-post.md
+  - skills/norr-linkedin.md
+  - skills/norr-pinterest.md
+  - skills/norr-shorts.md
+  - skills/norr-buch.md
+  - skills/norr-plan.md
+  - skills/norr-recherche.md
+  - skills/gear-check.md
+  - skills/natur-bio.md
+  - skills/natur-chemie.md
+
+agents:
+  - agents/norr-writer.md
+  - agents/norr-researcher.md
+
+memory:
+  - memory/schreibstil.md
+  - memory/icp.md
+  - memory/profil.md
